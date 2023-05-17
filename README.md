@@ -1,13 +1,13 @@
-# webpack-minimal
+## webpack-minimal
 Webpack configuration with SCSS compilation.
 
-# Installtion
+## Installtion
 
 ```
 npm install
 ```
 
-# Usage
+## Usage
 
 ```
 npm run watch
